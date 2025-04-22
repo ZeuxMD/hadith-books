@@ -6,7 +6,7 @@
     "urls": {
       "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/prettifiedBooks/abudawud.json",
       "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/minifiedBooks/abudawud.min.json",
-      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/abudawud.json.gz"
+      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/abudawud.json.pako"
     }
   },
   {
@@ -16,7 +16,7 @@
     "urls": {
       "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/prettifiedBooks/ahmed.json",
       "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/minifiedBooks/ahmed.min.json",
-      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/ahmed.json.gz"
+      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/ahmed.json.pako"
     }
   },
   {
@@ -26,7 +26,7 @@
     "urls": {
       "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/prettifiedBooks/aladab_almufrad.json",
       "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/minifiedBooks/aladab_almufrad.min.json",
-      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/aladab_almufrad.json.gz"
+      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/aladab_almufrad.json.pako"
     }
   },
   {
@@ -36,7 +36,7 @@
     "urls": {
       "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/prettifiedBooks/bukhari.json",
       "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/minifiedBooks/bukhari.min.json",
-      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/bukhari.json.gz"
+      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/bukhari.json.pako"
     }
   },
   {
@@ -46,7 +46,7 @@
     "urls": {
       "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/prettifiedBooks/bulugh_almaram.json",
       "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/minifiedBooks/bulugh_almaram.min.json",
-      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/bulugh_almaram.json.gz"
+      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/bulugh_almaram.json.pako"
     }
   },
   {
@@ -56,7 +56,7 @@
     "urls": {
       "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/prettifiedBooks/darimi.json",
       "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/minifiedBooks/darimi.min.json",
-      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/darimi.json.gz"
+      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/darimi.json.pako"
     }
   },
   {
@@ -66,7 +66,7 @@
     "urls": {
       "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/prettifiedBooks/ibnmajah.json",
       "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/minifiedBooks/ibnmajah.min.json",
-      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/ibnmajah.json.gz"
+      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/ibnmajah.json.pako"
     }
   },
   {
@@ -76,7 +76,7 @@
     "urls": {
       "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/prettifiedBooks/malik.json",
       "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/minifiedBooks/malik.min.json",
-      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/malik.json.gz"
+      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/malik.json.pako"
     }
   },
   {
@@ -86,7 +86,7 @@
     "urls": {
       "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/prettifiedBooks/mishkat_almasabih.json",
       "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/minifiedBooks/mishkat_almasabih.min.json",
-      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/mishkat_almasabih.json.gz"
+      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/mishkat_almasabih.json.pako"
     }
   },
   {
@@ -96,7 +96,7 @@
     "urls": {
       "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/prettifiedBooks/muslim.json",
       "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/minifiedBooks/muslim.min.json",
-      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/muslim.json.gz"
+      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/muslim.json.pako"
     }
   },
   {
@@ -106,7 +106,7 @@
     "urls": {
       "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/prettifiedBooks/nasai.json",
       "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/minifiedBooks/nasai.min.json",
-      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/nasai.json.gz"
+      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/nasai.json.pako"
     }
   },
   {
@@ -116,7 +116,7 @@
     "urls": {
       "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/prettifiedBooks/nawawi40.json",
       "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/minifiedBooks/nawawi40.min.json",
-      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/nawawi40.json.gz"
+      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/nawawi40.json.pako"
     }
   },
   {
@@ -126,7 +126,7 @@
     "urls": {
       "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/prettifiedBooks/qudsi40.json",
       "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/minifiedBooks/qudsi40.min.json",
-      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/qudsi40.json.gz"
+      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/qudsi40.json.pako"
     }
   },
   {
@@ -136,7 +136,7 @@
     "urls": {
       "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/prettifiedBooks/riyad_assalihin.json",
       "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/minifiedBooks/riyad_assalihin.min.json",
-      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/riyad_assalihin.json.gz"
+      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/riyad_assalihin.json.pako"
     }
   },
   {
@@ -146,7 +146,7 @@
     "urls": {
       "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/prettifiedBooks/shahwaliullah40.json",
       "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/minifiedBooks/shahwaliullah40.min.json",
-      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/shahwaliullah40.json.gz"
+      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/shahwaliullah40.json.pako"
     }
   },
   {
@@ -156,7 +156,7 @@
     "urls": {
       "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/prettifiedBooks/shamail_muhammadiyah.json",
       "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/minifiedBooks/shamail_muhammadiyah.min.json",
-      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/shamail_muhammadiyah.json.gz"
+      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/shamail_muhammadiyah.json.pako"
     }
   },
   {
@@ -166,7 +166,7 @@
     "urls": {
       "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/prettifiedBooks/tirmidhi.json",
       "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/minifiedBooks/tirmidhi.min.json",
-      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/tirmidhi.json.gz"
+      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/tirmidhi.json.pako"
     }
   }
 ]
