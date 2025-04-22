@@ -4,9 +4,9 @@
     "arabicTitle": "سنن أبي داود",
     "author": "الإمام سليمان بن الأشعث أبو داود السجستاني",
     "urls": {
-      "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/prettifiedBooks/abudawud.json",
-      "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/minifiedBooks/abudawud.min.json",
-      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/compressedBooks/abudawud.json.gz"
+      "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/prettifiedBooks/abudawud.json",
+      "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/minifiedBooks/abudawud.min.json",
+      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/abudawud.json.gz"
     }
   },
   {
@@ -14,9 +14,9 @@
     "arabicTitle": "مسند الإمام أحمد بن حنبل",
     "author": "الإمام أحمد بن حنبل",
     "urls": {
-      "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/prettifiedBooks/ahmed.json",
-      "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/minifiedBooks/ahmed.min.json",
-      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/compressedBooks/ahmed.json.gz"
+      "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/prettifiedBooks/ahmed.json",
+      "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/minifiedBooks/ahmed.min.json",
+      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/ahmed.json.gz"
     }
   },
   {
@@ -24,9 +24,9 @@
     "arabicTitle": "الأدب المفرد",
     "author": "الإمام محمد بن إسماعيل البخاري",
     "urls": {
-      "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/prettifiedBooks/aladab_almufrad.json",
-      "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/minifiedBooks/aladab_almufrad.min.json",
-      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/compressedBooks/aladab_almufrad.json.gz"
+      "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/prettifiedBooks/aladab_almufrad.json",
+      "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/minifiedBooks/aladab_almufrad.min.json",
+      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/aladab_almufrad.json.gz"
     }
   },
   {
@@ -34,9 +34,9 @@
     "arabicTitle": "صحيح البخاري",
     "author": "الإمام محمد بن إسماعيل البخاري",
     "urls": {
-      "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/prettifiedBooks/bukhari.json",
-      "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/minifiedBooks/bukhari.min.json",
-      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/compressedBooks/bukhari.json.gz"
+      "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/prettifiedBooks/bukhari.json",
+      "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/minifiedBooks/bukhari.min.json",
+      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/bukhari.json.gz"
     }
   },
   {
@@ -44,9 +44,9 @@
     "arabicTitle": "بلوغ المرام",
     "author": "الإمام ابن حجر العسقلاني",
     "urls": {
-      "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/prettifiedBooks/bulugh_almaram.json",
-      "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/minifiedBooks/bulugh_almaram.min.json",
-      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/compressedBooks/bulugh_almaram.json.gz"
+      "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/prettifiedBooks/bulugh_almaram.json",
+      "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/minifiedBooks/bulugh_almaram.min.json",
+      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/bulugh_almaram.json.gz"
     }
   },
   {
@@ -54,9 +54,9 @@
     "arabicTitle": "سنن الدارمي",
     "author": "الإمام أبو محمد عبد الرحمن بن عبد الله بن الدارمي",
     "urls": {
-      "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/prettifiedBooks/darimi.json",
-      "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/minifiedBooks/darimi.min.json",
-      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/compressedBooks/darimi.json.gz"
+      "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/prettifiedBooks/darimi.json",
+      "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/minifiedBooks/darimi.min.json",
+      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/darimi.json.gz"
     }
   },
   {
@@ -64,9 +64,9 @@
     "arabicTitle": "سنن ابن ماجه",
     "author": "الإمام محمد بن يزيد بن ماجه القزويني",
     "urls": {
-      "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/prettifiedBooks/ibnmajah.json",
-      "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/minifiedBooks/ibnmajah.min.json",
-      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/compressedBooks/ibnmajah.json.gz"
+      "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/prettifiedBooks/ibnmajah.json",
+      "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/minifiedBooks/ibnmajah.min.json",
+      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/ibnmajah.json.gz"
     }
   },
   {
@@ -74,9 +74,9 @@
     "arabicTitle": "موطأ مالك",
     "author": "الإمام مالك بن أنس",
     "urls": {
-      "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/prettifiedBooks/malik.json",
-      "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/minifiedBooks/malik.min.json",
-      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/compressedBooks/malik.json.gz"
+      "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/prettifiedBooks/malik.json",
+      "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/minifiedBooks/malik.min.json",
+      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/malik.json.gz"
     }
   },
   {
@@ -84,9 +84,9 @@
     "arabicTitle": "مشكاة المصابيح",
     "author": "الإمام الكاتب التبريزي",
     "urls": {
-      "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/prettifiedBooks/mishkat_almasabih.json",
-      "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/minifiedBooks/mishkat_almasabih.min.json",
-      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/compressedBooks/mishkat_almasabih.json.gz"
+      "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/prettifiedBooks/mishkat_almasabih.json",
+      "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/minifiedBooks/mishkat_almasabih.min.json",
+      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/mishkat_almasabih.json.gz"
     }
   },
   {
@@ -94,9 +94,9 @@
     "arabicTitle": "صحيح مسلم",
     "author": "الإمام مسلم بن الحجاج القشيري النيسابوري",
     "urls": {
-      "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/prettifiedBooks/muslim.json",
-      "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/minifiedBooks/muslim.min.json",
-      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/compressedBooks/muslim.json.gz"
+      "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/prettifiedBooks/muslim.json",
+      "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/minifiedBooks/muslim.min.json",
+      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/muslim.json.gz"
     }
   },
   {
@@ -104,9 +104,9 @@
     "arabicTitle": "سنن النسائي",
     "author": "الإمام أبو عبد الرحمن أحمد بن شعيب النسائي",
     "urls": {
-      "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/prettifiedBooks/nasai.json",
-      "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/minifiedBooks/nasai.min.json",
-      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/compressedBooks/nasai.json.gz"
+      "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/prettifiedBooks/nasai.json",
+      "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/minifiedBooks/nasai.min.json",
+      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/nasai.json.gz"
     }
   },
   {
@@ -114,9 +114,9 @@
     "arabicTitle": "الأربعون النووية",
     "author": "الإمام يحيى بن شرف النووي",
     "urls": {
-      "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/prettifiedBooks/nawawi40.json",
-      "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/minifiedBooks/nawawi40.min.json",
-      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/compressedBooks/nawawi40.json.gz"
+      "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/prettifiedBooks/nawawi40.json",
+      "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/minifiedBooks/nawawi40.min.json",
+      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/nawawi40.json.gz"
     }
   },
   {
@@ -124,9 +124,9 @@
     "arabicTitle": "الأربعون القدسية",
     "author": "",
     "urls": {
-      "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/prettifiedBooks/qudsi40.json",
-      "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/minifiedBooks/qudsi40.min.json",
-      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/compressedBooks/qudsi40.json.gz"
+      "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/prettifiedBooks/qudsi40.json",
+      "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/minifiedBooks/qudsi40.min.json",
+      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/qudsi40.json.gz"
     }
   },
   {
@@ -134,9 +134,9 @@
     "arabicTitle": "رياض الصالحين",
     "author": "الإمام يحيى بن شرف النووي",
     "urls": {
-      "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/prettifiedBooks/riyad_assalihin.json",
-      "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/minifiedBooks/riyad_assalihin.min.json",
-      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/compressedBooks/riyad_assalihin.json.gz"
+      "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/prettifiedBooks/riyad_assalihin.json",
+      "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/minifiedBooks/riyad_assalihin.min.json",
+      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/riyad_assalihin.json.gz"
     }
   },
   {
@@ -144,9 +144,9 @@
     "arabicTitle": "أربعون ولي الله الدهلوي",
     "author": "الشاه ولي الدين الدهلوي",
     "urls": {
-      "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/prettifiedBooks/shahwaliullah40.json",
-      "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/minifiedBooks/shahwaliullah40.min.json",
-      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/compressedBooks/shahwaliullah40.json.gz"
+      "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/prettifiedBooks/shahwaliullah40.json",
+      "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/minifiedBooks/shahwaliullah40.min.json",
+      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/shahwaliullah40.json.gz"
     }
   },
   {
@@ -154,9 +154,9 @@
     "arabicTitle": "الشمائل المحمدية",
     "author": "الإمام الترمذي",
     "urls": {
-      "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/prettifiedBooks/shamail_muhammadiyah.json",
-      "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/minifiedBooks/shamail_muhammadiyah.min.json",
-      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/compressedBooks/shamail_muhammadiyah.json.gz"
+      "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/prettifiedBooks/shamail_muhammadiyah.json",
+      "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/minifiedBooks/shamail_muhammadiyah.min.json",
+      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/shamail_muhammadiyah.json.gz"
     }
   },
   {
@@ -164,9 +164,9 @@
     "arabicTitle": "جامع الترمذي",
     "author": "الإمام أبو عيسى محمد بن عيسى الترمذي",
     "urls": {
-      "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/prettifiedBooks/tirmidhi.json",
-      "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/minifiedBooks/tirmidhi.min.json",
-      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@main/books/compressedBooks/tirmidhi.json.gz"
+      "json": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/prettifiedBooks/tirmidhi.json",
+      "minified": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/minifiedBooks/tirmidhi.min.json",
+      "compressed": "https://cdn.jsdelivr.net/gh/ZeuxMD/hadith-books@latest/books/compressedBooks/tirmidhi.json.gz"
     }
   }
 ]
